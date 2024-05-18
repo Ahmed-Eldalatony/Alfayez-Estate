@@ -19,7 +19,7 @@ function page() {
       <OurProperties />
       <OurServices />
       <OurProjects />
-      <PortfolioPage />
+      {/* <PortfolioPage /> */}
     </>
   );
 }
