@@ -245,7 +245,7 @@ function Header() {
             className: "mx-auto flex justify-between py-6 items-center sticky top-2 bg-white z-50  border-2 border-secondary px-8 rounded-full mt-4 animate-expand   ",
             children: [
                 /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                    href: "/home",
+                    href: "/",
                     className: " w-max font-bold  min-w-[11ch] text-3xl  text-primary " + __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$aref_ruqaa_5deff5e9$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$7b$export__default__as__inriaSerif$7d$__["inriaSerif"].className,
                     children: language.logo
                 }, void 0, false, {

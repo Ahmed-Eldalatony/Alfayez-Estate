@@ -11,7 +11,7 @@ export default function Header() {
        "
       >
         <Link
-          href={"/home"}
+          href={"/"}
           className={
             " w-max font-bold  min-w-[11ch] text-3xl  text-primary " +
             inriaSerif.className
