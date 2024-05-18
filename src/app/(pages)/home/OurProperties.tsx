@@ -29,7 +29,7 @@ function OurProperties() {
         {/* <PropertyCard image={homeimage1} /> */}
       </div>
 
-      <Button className="rounded-full text-lg text-white px-8 py-4 hover:bg-white hover:text-primary hover:opacity-100 border border-primary block leading-[5px] mx-auto ">
+      <Button className="rounded-full text-lg mb-10 text-white px-8 py-4 hover:bg-white hover:text-primary hover:opacity-100 border border-primary block leading-[5px] mx-auto ">
         {language.button}
       </Button>
     </>

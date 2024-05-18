@@ -13,7 +13,9 @@ const nextConfig = {
   typescript:{
         ignoreBuildErrors: true,
 
-  }
+  },
+    distDir: 'dist', // Change this to your desired folder name
+
 };
 
 export default nextConfig;

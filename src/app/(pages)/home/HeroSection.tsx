@@ -1,17 +1,18 @@
 import Image from "next/image";
 import HeroImage1 from "@/src/public/herosection.webp";
-import HeroImage2 from "@/src/public/airbnb-desktop.png";
-import HeroImage3 from "@/src/public/5336226-1336957324.jpg.webp";
-import HeroImage4 from "@/src/public/airbnb-mobile.webp";
+// import HeroImage2 from "@/src/public/airbnb-desktop.png";
+import HeroImage2 from "@/src/public/5336226-1336957324.jpg.webp";
+// import HeroImage4 from "@/src/public/airbnb-mobile.webp";
 import { arabicContent } from "../../lib/locale/ar";
 import { Inria_Serif } from "next/font/google";
 import { Button } from "@/src/components/ui/button";
 import { inriaSerif } from "../../layout";
 import AnimatedText from "./ScrollAway";
 import { ImageCarousel } from "./ScrollAway";
+import HeroImage3 from "@/src/public/kuwaitnight.png"
 
 function HeroSection() {
-  const imageUrls = [HeroImage1, HeroImage2, HeroImage3, HeroImage4];
+  const imageUrls = [HeroImage1, HeroImage2, HeroImage3];
 
   const { HeroSection: language } = arabicContent;
   return (

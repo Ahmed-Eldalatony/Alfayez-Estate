@@ -92,3 +92,16 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+.cover2 {
+  background-image: url('../public/greenfield.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.cover3 {
+  background-image: url('../public/whyuse.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
