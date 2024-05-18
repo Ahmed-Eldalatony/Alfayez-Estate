@@ -15,6 +15,8 @@ const nextConfig = {
 
   },
     distDir: 'dist', // Change this to your desired folder name
+      ignoreDuringBuilds: true,
+
 
 };
 
